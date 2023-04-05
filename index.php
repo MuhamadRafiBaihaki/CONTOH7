@@ -47,7 +47,7 @@ class Produk {
 
 
 
-$produk2 = new Produk($, "KAOS", 14000);
+$produk2 = new Produk("BAJU HITAM POLOS", "KAOS", 15000);
 
 
 
